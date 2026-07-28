@@ -26,6 +26,10 @@ Working with **Will Walden** and **Prof. Nicholas Andrews**, I study the reliabi
 
 My broader interests include model introspection, behavioral self-awareness, provenance, backdoor-like behaviors, and evaluation methods for building safer and more dependable language models.
 
+#### Agentic Data Collection and Computational Social Science
+
+Working with Prof. Kristina Gligorić, I research agentic methods for building reliable, structured research datasets from the open web. Our work explores how language-model agents can formulate extraction schemas, browse and retrieve information in parallel, convert heterogeneous web content into structured records, and evaluate the resulting data for faithfulness, relevance, and completeness. I also investigate multi-agent approaches to improving dataset quality and reducing bias, including the use of agents with different personas or perspectives to critique, debate, and validate collected information. The broader goal is to make large-scale data collection more reproducible, transparent, and dependable for computational social science and other research domains.
+
 ### Clinical AI - JHMI
 
 Working with **Dr. Akshintala**, I contribute to EndoScribe, an AI-assisted clinical documentation system for gastroenterology. My work includes medical speech-recognition evaluation, speaker diarization, clinical information extraction, and the structured extraction of variables required by tools such as **PEPRisc**. I am also investigating how clinical prediction tools can be exposed through **Model Context Protocol servers**, allowing a unified agent to select and execute appropriate models during clinical workflows. In addition, I build Federated Systems Architecture for multi-clinic model development.
