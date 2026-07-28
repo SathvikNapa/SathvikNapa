@@ -40,4 +40,4 @@ Developed enterprise machine-learning systems for IT operations and incident res
 
 ### SupportLogic - Senior Software Engineer, ML/NLP
 
-Built multilingual NLP and generative AI systems for customer-support automation and incident resolution. My work included a QLoRA-based ticket-deflection model and persona-aware conversational workflows combining RAG, summarization, question answering, runbook generation, coreference resolution, and style transformation.
+Built multilingual NLP and generative AI systems for customer-support automation and incident resolution. My work included a ticket-deflection model and persona-aware conversational workflows combining RAG, summarization, question answering, runbook generation, coreference resolution, and style transformation.
