@@ -11,11 +11,11 @@ Machine learning engineer and researcher with experience in NLP, speech, large l
 
 ## Experience & Research
 
-### Johns Hopkins DSAI and BSPH — SurveyAI
+### Johns Hopkins DSAI and BSPH - SurveyAI
 
 Working with **Prof. Carl Latkin**, I research adaptive survey systems for applications in **mental health** and **climate-change research**. The project investigates how computational methods and language models can dynamically select or personalize survey questions based on previous responses while preserving measurement quality and scientific validity. The broader goal is to reduce respondent burden, improve engagement, and enable surveys to gather more useful information through context-aware questioning.
 
-### Johns Hopkins CLSP — Speech and Conversational AI
+### Johns Hopkins CLSP - Speech and Conversational AI
 
 Working with **Prof. Laureano Moro Velázquez**, I study emotional naturalness and entrainment in dyadic conversations. My research involves processing large-scale conversational speech, extracting emotion and prosody representations using speech models such as Whisper, and developing multimodal architectures conditioned on conversational context and participant relationships.
 
@@ -29,11 +29,11 @@ Working with **Will Walden** and **Prof. Nicholas Andrews**, I study the reliabi
 
 My broader interests include model introspection, behavioral self-awareness, provenance, backdoor-like behaviors, and evaluation methods for building safer and more dependable language models.
 
-### SolarWinds — Software Engineer, Machine Learning
+### SolarWinds - Software Engineer, Machine Learning
 
 Developed enterprise machine-learning systems for IT operations and incident resolution, including **ResolveBot**, a hybrid retrieval-augmented generation system, and multi-agent workflows for automated incident triage. I also worked on sequential-pattern-mining approaches for root-cause analysis, causal graph construction, and patented stochastic time-series forecasting methods.
 
-### SupportLogic — Senior Software Engineer, ML/NLP
+### SupportLogic - Senior Software Engineer, ML/NLP
 
 Built multilingual NLP and generative AI systems for customer-support automation and incident resolution. My work included a QLoRA-based ticket-deflection model and persona-aware conversational workflows combining RAG, summarization, question answering, runbook generation, coreference resolution, and style transformation.
 
